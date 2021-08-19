@@ -1,5 +1,4 @@
 # C-arithmetic-code
-# C-arithmetic-code
 #include<iostream>
 using namespace std;	
 
